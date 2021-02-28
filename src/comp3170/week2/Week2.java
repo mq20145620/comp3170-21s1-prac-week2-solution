@@ -36,9 +36,6 @@ public class Week2 extends JFrame implements GLEventListener {
 	private int vertexBuffer;
 	private int[] indices;
 	private int indexBuffer;
-	private float[] colours;
-	private int colourBuffer;
-	
 	
 	public Week2() {
 		super("Week 2 example");
